@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there ,Here we have some codes for y'all so you can try them for yourself 👋
 
 <!--
 **LetsDoSomeTech/LetsDoSomeTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
